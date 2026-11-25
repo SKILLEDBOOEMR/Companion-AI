@@ -1,0 +1,15 @@
+*.env
+.vscode/
+chroma_db/
+virtu/
+modal/
+__pycache__/
+ZONOS3-Mini/
+*.wav
+create_alibabaid.py
+main_withqwentts.py
+microphone.py
+ModelfileRocky
+persona_builder.py
+teto.wav
+test_kokoclone
